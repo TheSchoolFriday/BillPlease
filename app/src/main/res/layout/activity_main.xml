@@ -73,6 +73,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="number"
+        android:text="0"
         android:hint="@string/discount" />
 
     <RadioGroup
@@ -91,6 +92,7 @@
             android:id="@+id/radioButtonPayNow"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:checked="true"
             android:text="@string/paynow" />
 
     </RadioGroup>
