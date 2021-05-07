@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="etAmount">Enter an Amount</string>
 </resources>
